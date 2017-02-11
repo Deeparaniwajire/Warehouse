@@ -6,6 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		ArrayList<Person> p=new ArrayList<Person>();
+		System.out.println("heloo");
 		p.add(new Person("deepa",100,12));
 		p.add(new Person("apple",120,10));
 		p.add(new Person("rani",50,13));
